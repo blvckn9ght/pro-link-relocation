@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Nav/>
     <router-view v-slot="{Component}"> 
 	  	<component :is="Component"/>
 	</router-view>
@@ -8,12 +9,16 @@
 </template>
 
 <script>
+import Nav from "./components/Nav.vue"
 export default {
   setup () {
     
 
     return {}
-  }
+  },
+  components: {
+    Nav,
+  },
 }
 </script>
 
