@@ -1,7 +1,7 @@
 <template>
     <div>
 
-        <nav class="bg-white border-gray-200 py-10 px-16">
+        <nav class="fixed top-0 left-0 w-full z-10 bg-white border-gray-200 py-10 px-16">
     <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
         <a href="#" class="flex items-center">
             <img src="https://www.svgrepo.com/show/499962/music.svg" class=" h-9 mr-3 sm:h-9" alt="Landwind Logo">
@@ -33,24 +33,24 @@
             <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                 <li>
                     <a href="#"
-                        class="block py-2 pl-3 pr-4 text-gray-700  rounded lg:bg-transparent lg:text-gray-700 lg:p-0 "
+                        class="block py-2 pl-3 pr-4 text-gray-700 hover:text-teal-600  rounded lg:bg-transparent lg:text-gray-700 lg:p-0 "
                         aria-current="page">HOME</a>
                 </li>
                 <li>
                     <a href="#"
-                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-gray-700 lg:p-0 ">ABOUT</a>
+                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:text-teal-600 lg:hover:bg-transparent lg:border-0 lg:hover:text-teal-600 lg:p-0 ">ABOUT</a>
                 </li>
                 <li>
                     <a href="#"
-                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-gray-700 lg:p-0 ">SERVICES</a>
+                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:text-teal-600 lg:hover:bg-transparent lg:border-0 lg:hover:text-teal-600 lg:p-0 ">SERVICES</a>
                 </li>
                 <li>
                     <a href="#"
-                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-gray-700 lg:p-0 ">BLOG</a>
+                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:text-teal-600 lg:hover:bg-transparent lg:border-0 lg:hover:text-teal-600 lg:p-0 ">BLOG</a>
                 </li>
                 <li>
                     <a href="#"
-                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-gray-700 lg:p-0 ">CONTACT</a>
+                        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:text-teal-600 lg:hover:bg-transparent lg:border-0 lg:hover:text-teal-600 lg:p-0 ">CONTACT</a>
                 </li>
                 
             </ul>

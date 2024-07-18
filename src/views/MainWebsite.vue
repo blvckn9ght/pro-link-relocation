@@ -1,6 +1,6 @@
 <template>
     <!-- Top View -->
-    <div>
+    <div class=" mt-36">
         <section class=" bg-teal-400 w-full">
     <div class="container mx-auto py-16 px-6 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
