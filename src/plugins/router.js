@@ -4,6 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes =[
     {path: '/', name: 'home', component: ()=> import('../views/MainWebsite.vue'),},
+    {path: '/nav', name: 'nav', component: ()=> import('../components/Nav.vue'),},
 ]
 
 
