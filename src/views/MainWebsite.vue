@@ -145,6 +145,122 @@
 </section>
      </div>
 
+     <!-- How it works -->
+<div class="min-h-screen bg-white text-gray-900 flex justify-center">
+    <div class="max-w-screen-xl m-0 sm:m-10 bg-white shadow sm:rounded-lg flex justify-center flex-1">
+        <div class="lg:w-1/2 xl:w-5/12 p-6 sm:p-12">
+            <h2 class="font-heading text-teal-800  text-3xl font-bold lg:text-4xl"> How It Works</h2>
+            <span class=" text-slate-500">Random Text Here</span>
+
+
+<div class="flex mt-7">
+    <div class="mr-4 flex flex-col items-center">
+        <div>
+            <div class="flex h-10 w-10 items-center justify-center rounded-full border-2 border-blue-900"><svg
+                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="h-6 w-6 text-blue-800">
+                    <path d="M12 5l0 14"></path>
+                    <path d="M18 13l-6 6"></path>
+                    <path d="M6 13l6 6"></path>
+                </svg></div>
+        </div>
+        <div class="h-full w-px bg-slate-500"></div>
+    </div>
+    <div class="pt-1 pb-8">
+        <button class="mb-2 text-xl font-bold text-red-600">Register </button>
+        <p class="text-slate-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla. Praesent
+            placerat enim ut ex tincidunt vehicula. Fusce sit amet dui tellus.</p>
+    </div>
+</div>
+
+
+<div class="flex">
+    <div class="mr-4 flex flex-col items-center">
+        <div>
+            <div class="flex h-10 w-10 items-center justify-center rounded-full border-2 border-blue-900"><svg
+                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="h-6 w-6 text-blue-800">
+                    <path d="M12 5l0 14"></path>
+                    <path d="M18 13l-6 6"></path>
+                    <path d="M6 13l6 6"></path>
+                </svg></div>
+        </div>
+        <div class="h-full w-px bg-gray-300 dark:bg-slate-500"></div>
+    </div>
+    <div class="pt-1 pb-8">
+        <button class="mb-2 text-xl font-bold text-teal-800 ">Step 2</button>
+        <p class="text-slate-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.</p>
+    </div>
+</div>
+
+
+<div class="flex">
+    <div class="mr-4 flex flex-col items-center">
+        <div>
+            <div class="flex h-10 w-10 items-center justify-center rounded-full border-2 border-blue-900"><svg
+                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="h-6 w-6 text-blue-800">
+                    <path d="M12 5l0 14"></path>
+                    <path d="M18 13l-6 6"></path>
+                    <path d="M6 13l6 6"></path>
+                </svg></div>
+        </div>
+    </div>
+    <div class="pt-1 pb-8">
+        <button class="mb-2 text-xl font-bold text-green-500">Step 3</button>
+        <p class="text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+            sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.</p>
+    </div>
+</div>
+<a href="https://themesberg.com/product/tailwind-css/landing-page"
+                class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-md text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 lg:mr-0 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">Download</a>
+</div>
+        <div class="flex-1 bg-indigo-100 text-center hidden lg:flex">
+            <div class="m-12 xl:m-16 w-full bg-contain bg-center bg-no-repeat"
+                style="background-image: url('https://storage.googleapis.com/devitary-image-host.appspot.com/15848031292911696601-undraw_designer_life_w96d.svg');">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="sm:flex  justify-center max-w-screen-xl">
+    <div class="sm:w-1/2 p-5 py-6">
+        <div class="text">
+            <h2 class="my-4 font-bold text-3xl text-teal-800 text-center sm:text-4xl ">About
+            </h2>
+            <p class="text-gray-700">
+                KenyanNurse is a Nursing and Healthcare Consultants firm engaged in the recruitment
+                 and training of Nurses and other Healthcare Professionals 
+                for both local and international opportunities.
+            </p>
+            <br>
+            <p class="text-gray-700">
+                KenyanNurse is a Nursing and Healthcare Consultants firm engaged in the recruitment
+                 and training of Nurses and other Healthcare Professionals 
+                for both local and international opportunities.
+            </p>
+            <br>
+            <p class="text-gray-700">
+                KenyanNurse is a Nursing and Healthcare Consultants firm engaged in the recruitment
+                 and training of Nurses and other Healthcare Professionals 
+                for both local and international opportunities.
+            </p>
+            
+            
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+oigajeijo
+
 
 
 
