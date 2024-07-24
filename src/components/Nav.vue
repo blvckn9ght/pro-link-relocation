@@ -61,9 +61,13 @@
                             </div>
                             
                             <ul v-if="isHovered" class="absolute -left-10 text-sm rounded-md shadow-teal-950  z-10 w-48 bg-white shadow-lg">
-                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">ALL</a></li>
-                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">TRAININGS</a></li>
-                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">gjiuoujk</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">All</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Trainings</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Cybersecurity</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Software Development</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Blockchain</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Cloud Computing</a></li>
+                                <li><a class="block px-4 py-2 text-gray-700 hover:bg-gray-100" href="#">Nutrition</a></li>
                             </ul>
                 </li>
                
